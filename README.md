@@ -2,9 +2,9 @@
 
 ## Objective
 
-### Skills Learned
+## Skills Learned
 
-### Tools Used
+## Tools Used
 
 ## Steps
 
