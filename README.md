@@ -8,10 +8,10 @@
 
 ## Steps
 
-### Conclusion
+## Conclusion
 
-## Key Takeaways
+### Key Takeaways
 
-## Future Directions
+### Future Directions
 
-## Final Thoughts
+### Final Thoughts
